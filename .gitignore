@@ -1,0 +1,9 @@
+/MYRA/local.properties
+/MYRA/.gradle/
+/MYRA/.kotlin/
+/MYRA/app/build/
+/MYRA/.idea/
+/MYRA/.vscode/
+/MYRA.zip
+/MYRA-repaired.zip
+*.apk
